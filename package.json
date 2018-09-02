@@ -1,0 +1,18 @@
+{
+  "name": "Kentik_OTX_CD",
+  "version": "0.0.1",
+  "description": "An example API module for the Kentik Data Engine",
+  "author": "Craig Yamato <craig.yamato2@gmail.com>",
+  "contributors": [
+    {}
+  ],
+  "dependencies": {
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "get+https://github.com/cyamato/kentik_api_for_portal.git"
+  },
+  "license": "GPL-3.0"
+}
